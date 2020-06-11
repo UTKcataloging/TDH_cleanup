@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl605</identifier>
+   <titleInfo>
+      <title>[Petition] [to] William Hall on behalf of John Tompkins</title>
+   </titleInfo>
+   <abstract>This is a petition to Tennessee Governor William Hall for the release of John Tompkins from prison. Tompkins was imprisoned for dealing Faro, an illegal card game, at his home.</abstract>
+   <originInfo>
+      <dateCreated>1829</dateCreated>
+      <dateCreated encoding="edtf">1829</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee -- History</topic>
+   </subject>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>Imprisonment</topic>
+   </subject>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor William Hall Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

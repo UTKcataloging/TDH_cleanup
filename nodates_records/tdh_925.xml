@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mm035</identifier>
+   <identifier type="oclc">45090166</identifier>
+   <titleInfo>
+      <title>[Aerial photograph showing the former site of Chota and Tanasee, 18th century Cherokee villages] / [by Wayne D. Roberts]</title>
+   </titleInfo>
+   <abstract>This aerial photograph shows the former site of Chota and Tanasee, 18th century Overhill Cherokee villages in the Little Tennessee River Valley. Chota was recognized by Native Americans and European settlers as a powerful social and economic influence and was regarded as the capital of the Cherokee nation. The University of Tennessee conducted excavations of Overhill Cherokee villages between 1967 and 1983 as part of the Tellico Archaeological Project in anticipation of the flooding of the lower Little Tennessee River Valley by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA).</abstract>
+   <originInfo>
+      <dateCreated>1967-1983</dateCreated>
+      <dateCreated encoding="edtf" point="start">1967</dateCreated>
+      <dateCreated encoding="edtf" point="end">1983</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Aerial photographs</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Salvage archaeology</topic>
+   </subject>
+   <subject>
+      <topic>Historic sites</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Chota Site (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Tanasee Site (Tenn.)</topic>
+   </subject>
+   <name>
+      <namePart>Roberts, Wayne D.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <location>
+      <physicalLocation>Frank H. McClung Museum</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum Photographic Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>Frank H. McClung Museum</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>
