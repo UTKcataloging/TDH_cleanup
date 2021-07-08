@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">jm001</identifier>
+   <identifier type="pid">tdh:8768</identifier>
+   <identifier type="oclc">44370336</identifier>
+   <titleInfo supplied="yes">
+      <title>Receipts for the cure of most diseases incident to the human family / by the celebrated Indian doctor, John Mackentosh, of the Cherokee Nation</title>
+   </titleInfo>
+   <abstract>This is a published work of receipts, or recipes, for treatment of a variety of injuries and diseases, including whooping cough, snake bite, sprained ankles, cholic, and fever. The work was written by John Mackentosh, a Doctor of the Cherokee Nation, and appears to have been published in New York, 1827.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr91008038">
+      <namePart>Mackentosh, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1827</dateCreated>
+      <dateCreated encoding="edtf">1827</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027573">receipts (financial records)</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85083077">
+      <topic>Medicine--Formulae, receipts, prescriptions</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Medicine</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065329">
+      <topic>Indians of North America--Medicine</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

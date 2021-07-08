@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl655</identifier>
+   <identifier type="pid">tdh:7626</identifier>
+   <titleInfo supplied="yes">
+      <title>1838 Mar. 7, Frankfort, Kentucky [to] N[ewton] Cannon, Nashville, Tennessee / Ja[me]s Clark</title>
+   </titleInfo>
+   <abstract>This is a letter from James Clark, Governor of Kentucky to Governor Newton Cannon, dated March 7, 1838. Clark writes about the internal improvements the two states are implementing. He mentions plans to build Macadamized roads.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n82219707">
+      <namePart>Clark, James, 1779-1839</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>March 7, 1838</dateCreated>
+      <dateCreated encoding="edtf">1838-03-07</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+      <topic>Kentucky</topic>
+   </subject>
+   <subject>
+      <topic>Macadamized Turnpikes</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor Newton Cannon Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

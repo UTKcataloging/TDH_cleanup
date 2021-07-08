@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">pa0282</identifier>
+   <identifier type="pid">tdh:1374</identifier>
+   <titleInfo supplied="yes">
+      <title>[Receipt] 1802 Jul. 19, United States to Joseph R. Henderson / Return J. Meigs</title>
+   </titleInfo>
+   <abstract>This document is a receipt for payment of seventy-five cents to Joseph R. Henderson. Return J. Meigs, agent for the War Department in Tennessee made the payment on behalf of the United States.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92008354">
+      <namePart>Meigs, Return Jonathan, 1740-1823</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="namename">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>July 19, 1802</dateCreated>
+      <dateCreated encoding="edtf">1802-07-19</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027573">receipts (financial records)</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111810">
+      <topic>Receipts (Acknowledgments)</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85064963">
+      <topic>Indian agents</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+      <geographic>United States</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Penelope Johnson Allen Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

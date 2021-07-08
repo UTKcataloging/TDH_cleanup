@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl480</identifier>
+   <identifier type="pid">tdh:8239</identifier>
+   <titleInfo supplied="yes">
+      <title>[Proposals] 1794 Oct. 31, Knoxville, Tennessee [to] David Henley / John Chisholm</title>
+   </titleInfo>
+   <abstract>This document is a proposal from John Chisolm to David Henley, agent for the Department of War, dated October 31, 1794. The document provides specific details for supplying rations for the use of troops in service at the rivers in the territory south of the Ohio.</abstract>
+   <name>
+      <namePart>Chisholm, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>October 31, 1794</dateCreated>
+      <dateCreated encoding="edtf">1794-10-31</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+      <topic>Tennessee--History</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074345">
+      <topic>Land</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85146655">
+      <topic>Wild and scenic rivers</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Henley Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

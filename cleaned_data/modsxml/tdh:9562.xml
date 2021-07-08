@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sc032</identifier>
+   <identifier type="pid">tdh:9562</identifier>
+   <identifier type="oclc">50037873</identifier>
+   <titleInfo supplied="yes">
+      <title>Biographical Album of Tennessee Governors [William Blount-1790-1796] / J. S. Jones</title>
+   </titleInfo>
+   <abstract>The Biographical Album of Tennessee Governors, dated 1904, contains 31 plates, each featuring a Tennessee Governor's photo on the front and biographical information on the back. This plate features William Blount, Tennessee's first Territorial Governor.</abstract>
+   <name>
+      <namePart>Jones, J. S.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1904</dateCreated>
+      <dateCreated encoding="edtf">1904</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300189216">plates (illustrations)</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133876">
+      <topic>Tennessee--Politics and government</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+      <topic>Tennessee--History</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n84136128">
+      <topic>Blount, William, 1749-1800</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

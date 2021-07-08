@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">pa0230</identifier>
+   <identifier type="pid">tdh:1456</identifier>
+   <identifier type="oclc">45957154</identifier>
+   <titleInfo supplied="yes">
+      <title>[Testimony] 1838 April 18, Cherokee Agency East / William Reid</title>
+   </titleInfo>
+   <abstract>This document is a sworn statement given by William Reid regarding six head of cattle killed by white men in November of 1823. Reid requests 72.00 dollars in compensation from the United States Government.</abstract>
+   <name>
+      <namePart>Reid, William</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>April 18, 1838</dateCreated>
+      <dateCreated encoding="edtf">1838-04-18</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+   </physicalDescription>
+   <subject>
+      <topic>Cherokee Indians--Claims</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Crimes against</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79007042">
+      <geographic>North Carolina</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Penelope Johnson Allen Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

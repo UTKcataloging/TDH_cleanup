@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl596</identifier>
+   <identifier type="pid">tdh:7899</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1846 Nov. 18, Knoxville, Tennessee [to] Aaron Brown, Nashville, Tennessee / Isaac Lewis</title>
+   </titleInfo>
+   <abstract>This is a letter dated November 18, 1846 from Isaac Lewis in Knoxville, Tennessee to Governor Aaron V. Brown in Nashville. In the letter, Lewis discusses the completion of the Hiwassee Rail Road, and the hopes and prospects that East Tennesseans hold for it.</abstract>
+   <name>
+      <namePart>Lewis, Isaac</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>November 18, 1846</dateCreated>
+      <dateCreated encoding="edtf">1846-11-18</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+      <topic>Tennessee--History</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n92066434">
+      <topic>Hiwassee Railroad Company</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr90000566">
+      <topic>Brown, Aaron V. (Aaron Venable), 1795-1859</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor Aaron V. Brown Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

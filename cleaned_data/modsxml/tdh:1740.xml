@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">pa0012</identifier>
+   <identifier type="pid">tdh:1740</identifier>
+   <identifier type="oclc">44922039</identifier>
+   <titleInfo supplied="yes">
+      <title>Abstract of disbursements made by Return J. Meigs, 1812 Nov. 14 - 1812 Dec. 1, Tennessee</title>
+   </titleInfo>
+   <abstract>This is a summary of the disbursements made by Return J. Meigs, U.S. Agent to the Cherokee Nation, at the Cherokee Agency in Tennessee from November 14, 1812 through December 1, 1812. The expenses include salary payments to various interpreters, payment for claims against the Cherokees, legal fees, transportation costs, and payment for spinning and weaving articles.</abstract>
+   <originInfo>
+      <dateCreated>November 14, 1812</dateCreated>
+      <dateCreated encoding="edtf">1812-11-14</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027473">financial records</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85046431">
+      <topic>Expense accounts</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Claims against</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85064963">
+      <topic>Indian agents</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Penelope Johnson Allen</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

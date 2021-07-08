@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">tl054</identifier>
+   <identifier type="pid">tdh:7037</identifier>
+   <identifier type="oclc">47832856</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1804 Feb. 9, [to] warriors chiefs of the Cherokee Nation / [John Sevier]: a machine-readable transcription of an image</title>
+   </titleInfo>
+   <abstract>This document is a letter written by Tennessee Governor John Sevier (1796-1801, 1803-1809), dated February 9, 1804, and addressed to the warriors and chiefs of the Cherokee Nation. In the letter, Sevier reported that the recent murders of Cherokee men in Buncombe County, North Carolina, were not committed by a resident of Tennessee. Sevier had received a description of the man suspected and had been informed that he had likely fled to Tennessee, in which case Sevier assured the Cherokee leaders that he would do his best to have the man apprehended. The Governor also briefly discussed business of a road being opened through the Cherokee Nation and suggested that arrangements for such should be made soon.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <namePart>Sevier, John, 1745-1815</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>February 9, 1804</dateCreated>
+      <dateCreated encoding="edtf">1804-02-09</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject>
+      <topic>Cherokee Indians--Violence against</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+      <topic>Cherokee Indians--Government relations</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85114491">
+      <topic>Roads--Design and construction</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79117179">
+      <geographic>Buncombe County (N.C.)</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">um004</identifier>
+   <identifier type="pid">tdh:8756</identifier>
+   <identifier type="oclc">50193107</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1833 May 29 Washington [D.C.] to Miss Mary Coffee / Andrew Jackson</title>
+   </titleInfo>
+   <abstract>This document is a letter dated May 29, 1833 to Mary Coffee from Andrew Jackson, then President of the United States. President Jackson inquires on her father's (General John Coffee) health and updates her on his own health.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n79088888">
+      <namePart>Jackson, Andrew, 1767-1845</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 29, 1833</dateCreated>
+      <dateCreated encoding="edtf">1833-05-29</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject>
+      <topic>Coffee, John</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Andrew Jackson 1804-1844, MS28</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

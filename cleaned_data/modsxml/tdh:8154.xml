@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl471</identifier>
+   <identifier type="pid">tdh:8154</identifier>
+   <titleInfo supplied="yes">
+      <title>1796 Apr. 10, Tellico Blockhouse [Tennessee, to] David Henley, Knoxville [Tennessee] / John McKee</title>
+   </titleInfo>
+   <abstract>This is a letter from John McKee to David Henley, dated April 10, 1796. McKee quotes a letter from Governor William Blount stating that his requests for money should be directed to Henley. He is an agent for the War Department. One expected expense is buying whiskey for Cherokee Chiefs.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88244913">
+      <namePart>McKee, John, 1771-1832</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>April 10, 1796</dateCreated>
+      <dateCreated encoding="edtf">1796-04-10</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n85198931">
+      <topic>Henley, David, 1749-1823</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n84136128">
+      <topic>Blount, William, 1749-1800</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Government policy</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Henley</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

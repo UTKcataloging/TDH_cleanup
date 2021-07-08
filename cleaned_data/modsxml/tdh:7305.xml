@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl762</identifier>
+   <identifier type="pid">tdh:7305</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1819 Sep. 28, Murfreesboro, Tennessee [to] Joseph McMinn / James Park</title>
+   </titleInfo>
+   <abstract>This document is a letter dated September 28, 1819 from James Park to the governor of Tennessee, Joseph McMinn. The subject of the letter is the wretched condition of the Turnpike road between Knoxville and Sparta, and the growing difficulty that United States mail wagon carriers have in its passage. In the letter, Park writes of mail routes throughout Tennessee. He also asks the governor to consider whether or not a toll should be authorized on the Turnpike.</abstract>
+   <name>
+      <namePart>Park, James</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>September 28, 1819</dateCreated>
+      <dateCreated encoding="edtf">1819-09-28</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+      <topic>Tennessee--History</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n83188533">
+      <topic>Tennessee. Governor, Office of the</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr94022129">
+      <topic>McMinn, Joseph, 1758-1824</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor Joseph McMinn Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

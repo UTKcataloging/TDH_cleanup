@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">tl055</identifier>
+   <identifier type="pid">tdh:7034</identifier>
+   <identifier type="oclc">47832922</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1804 Feb. 10, Knoxville, [Tennessee, to] Colo[nel Return Jonathan] Meigs / J[ohn] S[evier]</title>
+   </titleInfo>
+   <abstract>This document is a letter from John Sevier to Colonel Return Jonathan Meigs written on February 10, 1804. This letter is informing Colonel Meigs about Colonel Samuel Gordon and his involvement in recovering stolen goods from the Creek Nation.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <namePart>Sevier, John, 1745-1815</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>February 10, 1804</dateCreated>
+      <dateCreated encoding="edtf">1804-02-10</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject>
+      <topic>Creek Indians--Claims against</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033892">
+      <topic>Creek Indians--Government relations</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

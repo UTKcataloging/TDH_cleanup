@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl587</identifier>
+   <identifier type="pid">tdh:7959</identifier>
+   <titleInfo supplied="yes">
+      <title>1846 Jun. 6, Nashville, Tennessee [to] Maj[or] Gen[era]l Brazelton / Aaron V. Brown</title>
+   </titleInfo>
+   <abstract>This is a letter from Governor Aaron V. Brown to Major General Brazelton, dated June 6, 1946. Brown writes to discuss troop movements. He also writes about providing provisions for the soldiers. He wants the responsibility of provisions to fall to the captains of each company.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr90000566">
+      <namePart>Brown, Aaron V. (Aaron Venable), 1795-1859</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>June 6, 1846</dateCreated>
+      <dateCreated encoding="edtf">1846-06-06</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr90000566">
+      <topic>Brown, Aaron V. (Aaron Venable), 1795-1859</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085261">
+      <topic>Military planning</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor Aaron V. Brown Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

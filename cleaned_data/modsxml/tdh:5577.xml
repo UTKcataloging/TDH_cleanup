@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl357</identifier>
+   <identifier type="pid">tdh:5577</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] [to] Finis Ewing, Lexington, M[issouri] / J[ames] Smith</title>
+   </titleInfo>
+   <abstract>This is a letter from Rev. James Smith Rev. Finis Ewing. The date is unknown. He is writing in response to his uncle's inquiry about General Andrew Jackson joining the Cumberland Presbyterian Church. Smith is unhappy about it, for he does not believe Jackson to be a true believer. He writes about having preached at the Hermitage. While there, Smith gets involved in a dispute between Mrs. Jackson and the local minister.</abstract>
+   <name>
+      <namePart>Smith, James</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated qualifier="approximate">circa 1837</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate">1837</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79088888">
+      <topic>Jackson, Andrew, 1767-1845</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n81097533">
+      <topic>Cumberland Presbyterian Church</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Finis Ewing Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

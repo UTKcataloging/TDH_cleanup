@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mm050</identifier>
+   <identifier type="pid">tdh:895</identifier>
+   <identifier type="oclc">45105030</identifier>
+   <titleInfo supplied="yes">
+      <title>[Photograph of late 18th century to 1838 lidded double weave cane basket from Knox County, Tennessee] / [by W. Miles Wright]</title>
+   </titleInfo>
+   <abstract>This is a photograph of a late 18th century to 1838 lidded double weave cane basket of Cherokee origin from Knox County, Tennessee.</abstract>
+   <name>
+      <namePart>Wright, W. Miles</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1960-1990</dateCreated>
+      <dateCreated point="start" encoding="edtf">1960</dateCreated>
+      <dateCreated point="end" encoding="edtf">1990</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85101195">
+      <topic>Photographs</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Antiquities</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008955">
+      <topic>Cherokee baskets</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n81102870">
+      <geographic>Knox County (Tenn.)</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum Photographic Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

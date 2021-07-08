@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl056</identifier>
+   <identifier type="pid">tdh:6673</identifier>
+   <identifier type="oclc">50078254</identifier>
+   <titleInfo supplied="yes">
+      <title>[Order for Payment] 1812 Dec. 31, Knoxville, [Tennessee] [to] Thomas Claibourn, L. P. Montgomery / E. W. Hudnall</title>
+   </titleInfo>
+   <abstract>This document is an order for payment dated December 31, 1812. The order requires Thomas Claibourn and L. P. Montgomery to pay Robert King $310.58 when he receives these funds from Joshua Ballance and John Summerville (a.k.a John S. Williamson). The order is signed by E. W. Hudnall.</abstract>
+   <name>
+      <namePart>Hudnall, E. W.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ato">Autographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>December 31, 1812</dateCreated>
+      <dateCreated encoding="edtf">1812-12-31</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Coffee Perkins Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

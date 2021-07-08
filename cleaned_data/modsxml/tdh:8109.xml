@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl477</identifier>
+   <identifier type="pid">tdh:8109</identifier>
+   <titleInfo supplied="yes">
+      <title>1800 Mar. 14, Philadelphia [Pennsylvania, to] David Henley, Knoxville [Tennessee] / William C.C. Claiborne</title>
+   </titleInfo>
+   <abstract>This is a letter from U.S. Representative William Charles Cole Claiborne to David Henley, dated March 14, 1800. Claiborne is giving his opinion on a proposed reduction in the Army. Though he does not worry about an invasion, he still believes that a strong defence is necessary. Claiborne also writes that the Army would not be able to withstand an attack if one did occur. He believes they should concentrate on training and equipping the militia as a permanent protection force.</abstract>
+   <name>
+      <namePart>Claiborne, William C. C.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>March 14, 1800</dateCreated>
+      <dateCreated encoding="edtf">1800-03-14</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79063202">
+      <topic>United States. Army</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n86114748">
+      <topic>Claiborne, William Charles Cole, 1775-1817</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n85198931">
+      <topic>Henley, David, 1749-1823</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh00006471">
+      <topic>Militia</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Henley Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

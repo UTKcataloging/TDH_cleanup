@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">tl215</identifier>
+   <identifier type="pid">tdh:6951</identifier>
+   <identifier type="oclc">49961350</identifier>
+   <titleInfo supplied="yes">
+      <title>[Receipt] 1794 Sept. 30 [to John Sevier] / [signed by] William Blount et. al.</title>
+   </titleInfo>
+   <abstract>This document is a receipt signed by Governor William Blount and others to allow John Sevier to receive payment for his attendance at a session of the General Assembly in Knoxville, Tennessee.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n84136128">
+      <namePart>Blount, William, 1749-1800</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="namename">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>September 30, 1794</dateCreated>
+      <dateCreated encoding="edtf">1794-09-30</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027573">receipts (financial records)</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <topic>Sevier, John, 1745-1815</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+      <topic>Tennessee--Politics and government--To 1865</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111810">
+      <topic>Receipts (Acknowledgments)</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor William Blount Correspondence</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

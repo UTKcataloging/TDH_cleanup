@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl738</identifier>
+   <identifier type="pid">tdh:7333</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1796 Aug. 25, Knoxville [Tennessee, to] Little Turkey [Cherokee Nation] / Jo[hn] Sevier</title>
+   </titleInfo>
+   <abstract>This is a letter from Governor John Sevier to the Cherokee Chief Little Turkey, dated August 25, 1796. Sevier is writing to pass on a grievance from the Chickasaw Nation. Supposedly the Cherokees have some slaves belonging to a George Colbert. Sevier writes that he hopes they will return the slaves via Joseph Sevier, and that they will live in peace with the Chickasaw Nation.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <namePart>Sevier, John, 1745-1815</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>August 25, 1796</dateCreated>
+      <dateCreated encoding="edtf">1796-08-25</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject>
+      <topic>Cherokee Indians--Claims against</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023284">
+      <topic>Chickasaw Indians</topic>
+   </subject>
+   <subject>
+      <topic>Sevier, John, 1745-1815</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor John Sevier Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

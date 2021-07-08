@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ch032</identifier>
+   <identifier type="pid">tdh:676</identifier>
+   <identifier type="oclc">44804647</identifier>
+   <titleInfo supplied="yes">
+      <title>Letter, 1866 Jan. 19, Washington City, D.C. to Mr. Rice, Philadelphia, P[ennsylvani]a / John Ross</title>
+   </titleInfo>
+   <abstract>Copy of a letter dated January 19, 1866 from John Ross, Principal Chief of the Cherokee Nation, to a publisher in Philadelphia named Mr. Rice. Ross apologizes for the delay in sending a manuscript written by Reverend Headley for submission in a publication called Indian Biography. A note on the back of the document indicates that this letter is a copy, but Ross's signature appears to be in his own hand.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n82214557">
+      <namePart>Ross, John, 1790-1866</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>January 19, 1866</dateCreated>
+      <dateCreated encoding="edtf">1866-01-19</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+      <topic>Cherokee Indians</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+      <geographic>United States</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>State Library Cherokee Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

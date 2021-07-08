@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">tl021</identifier>
+   <identifier type="pid">tdh:7240</identifier>
+   <identifier type="oclc">47822409</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] 1793 June 17, Withe County, [Tennessee to] General Smith / William Blount, Governor of the State of Tennessee</title>
+   </titleInfo>
+   <abstract>This document is a letter from William Blount, Governor of the state of Tennessee from 1790 to 1795, to General Smith, dated June 17, 1793. In his letter, Blount stated that he had been informed that the President and Secretary of War were awaiting his arrival in order to discuss business regarding the Indians in the South. Blount and others were apparently unhappy with the Indians, and Blount suggested that a full-scale war was the only way to coerce them into acting in accordance with the US's wishes. Blount also discussed providing arms for the frontier settlers.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n84136128">
+      <namePart>Blount, William, 1749-1800</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>June 17, 1793</dateCreated>
+      <dateCreated encoding="edtf">1793-06-17</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065278">
+      <topic>Indians of North America--Government relations</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh88006593">
+      <topic>Indians of North America--Warfare</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sl661</identifier>
+   <identifier type="pid">tdh:7728</identifier>
+   <titleInfo supplied="yes">
+      <title>[Letter] London, Great Britain [to] James K. Polk, Tennessee / Thomas Clarkson</title>
+   </titleInfo>
+   <abstract>This is a letter from Thomas Clarkson to Governor James K. Polk. Clarkson is writing about the Convention of the Friends of the Negroes that took place in London on June 23, 1840. He is especially adamant that slavery goes against civilized and Christian values. Clarkson includes quotes from the bible to support his argument.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n50038536">
+      <namePart>Clarkson, Thomas, 1760-1846</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated qualifier="approximate">circa 1840</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate">1840</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85056605">
+      <topic>Great Britain</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123315">
+      <topic>Slavery -- Anti slavery movements</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112742">
+      <topic>Religious thought--19th century</topic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Governor James K. Polk Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

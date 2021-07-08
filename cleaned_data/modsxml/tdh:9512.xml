@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sc049</identifier>
+   <identifier type="pid">tdh:9512</identifier>
+   <identifier type="oclc">50451229</identifier>
+   <titleInfo supplied="yes">
+      <title>[Writ] 1778 May 12, State of No[rth] Carolina [to] Sheriff of Washington [County] / [signed by] John Sevier</title>
+   </titleInfo>
+   <abstract>This document is a writ issued by the state of North Carolina and signed by John Sevier on May 12, 1778. The writ orders the sheriff of Washington County to locate James Robertson and bring him forth to appear in court regarding a charge brought against him by Zachariah Isbell.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <namePart>Sevier, John, 1745-1815</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ato">Autographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 12, 1778</dateCreated>
+      <dateCreated encoding="edtf">1778-05-12</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr89016779">
+      <topic>Sevier, John, 1745-1815</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79007042">
+      <geographic>North Carolina</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

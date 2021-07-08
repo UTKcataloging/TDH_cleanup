@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">sc084</identifier>
+   <identifier type="pid">tdh:9380</identifier>
+   <titleInfo supplied="yes">
+      <title>[Legal Indictment] 1788 Aug. 15 [to] The Sheriff of Sullivan County / State of North Carolina</title>
+   </titleInfo>
+   <abstract>This document is a legal indictment written to the Sheriff of Sullivan County from the state of North Carolina on August 15, 1788. The state of North Carolina asks the Sheriff to keep a man named Robert Cowan in his possession until he appears in the Court at Jonesborough.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n79007042">
+      <namePart>North Carolina</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="namename">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>August 15, 1788</dateCreated>
+      <dateCreated encoding="edtf">1788-08-15</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>MS-153</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

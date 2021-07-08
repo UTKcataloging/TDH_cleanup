@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">pa0022</identifier>
+   <identifier type="pid">tdh:1703</identifier>
+   <titleInfo supplied="yes">
+      <title>[Invoice] 1809 Mar.-Oct., The United States to Return J. Meigs, Agent to the Cherokee Nation</title>
+   </titleInfo>
+   <abstract>This document is an invoice dated 1809 from the United States to Return J. Meigs for services rendered as agent to the Cherokee Indians.</abstract>
+   <originInfo>
+      <dateCreated>October 23, 1809</dateCreated>
+      <dateCreated encoding="edtf">1809-10-23</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027473">financial records</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85067761">
+      <topic>Invoices</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+      <topic>Cherokee Indians--Government relations</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85064963">
+      <topic>Indian agents</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n92008354">
+      <topic>Meigs, Return Jonathan, 1740-1823</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+      <geographic>United States</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Penelope Johnson Allen Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ch094</identifier>
+   <identifier type="pid">tdh:401</identifier>
+   <identifier type="oclc">44908693</identifier>
+   <titleInfo supplied="yes">
+      <title>[Article on the Cherokees], 1844, [from the] Universal gazetteer / R. Brookes and John Marshall</title>
+   </titleInfo>
+   <abstract>This document is a typed excerpt from an article in the Universal Gazetteer, a geographic dictionary originally published in 1835, and reprinted in 1844. The typed excerpt contains parts of the full article and describes the state of the Cherokee people in the mid-nineteenth century. Cherokee leaders Charles Hicks and John Ross are mentioned. The excerpt presented here contains several minor typographical variations from the original article.</abstract>
+   <name authority="naf"
+         valueURI="https://id.loc.gov/authorities/names/n88132740">
+      <namePart>Marshall, John, 1783?-1841</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n83007776">
+      <namePart>Brookes, R. (Richard), active 1721-1763</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1844</dateCreated>
+      <dateCreated encoding="edtf">1844</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026202">gazetteers (dictionaries)</form>
+   </physicalDescription>
+   <subject>
+      <topic>Cherokee Indians--Social conditions</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Population</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>State Library Cherokee Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Documentary History</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="naf"
+                           valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
